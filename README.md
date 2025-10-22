@@ -28,3 +28,12 @@ Welcome! This repository is a collection of my transcription and editing samples
 ---
 
 ## 📂 Repository Structure
+
+## 📂 Samples
+- [Raw Transcript](./samples/raw/raw_transcript.txt)
+- [Edited Transcript (AP Style)](./samples/edited/edited_interview_APstyle.txt)
+
+## ✍️ Skills Demonstrated
+- Accurate transcription from audio
+- AP Style editing and formatting
+- Clarity, conciseness, and readability improvements
