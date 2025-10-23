@@ -42,3 +42,6 @@ Welcome! This repository is a collection of my transcription and editing samples
 -Respondent: yeah its pretty good i mean sometimes it crashes but most of the time it works fine and i like that its faster than the old one
 -Interviewer: what about the payment process
 -Respondent: its ok but i wish they had more options like paypal or something
+
+uh so today we was talking about the new phones that came out last week and like everybody’s saying they battery life is kinda bad but i think its just cause people dont charge it right. also the camera is like really really good but some people say its too sharp or whatever. anyways i guess its just personal preference you know.
+
