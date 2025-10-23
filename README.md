@@ -37,3 +37,8 @@ Welcome! This repository is a collection of my transcription and editing samples
 - Accurate transcription from audio
 - AP Style editing and formatting
 - Clarity, conciseness, and readability improvements
+
+- Interviewer: can you tell me about your experience with the new delivery app
+-Respondent: yeah its pretty good i mean sometimes it crashes but most of the time it works fine and i like that its faster than the old one
+-Interviewer: what about the payment process
+-Respondent: its ok but i wish they had more options like paypal or something
